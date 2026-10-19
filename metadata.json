@@ -1,0 +1,6 @@
+{
+  "name": "EchoLingo AI",
+  "description": "Nền tảng ôn tập đa môn học thông minh kết hợp Flashcard, Quiz trắc nghiệm, Chatbot bám sát học liệu và luyện phát âm cùng AI",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
